@@ -12,7 +12,7 @@ Four fMRI experiments were conducted over the course of 7 sessions in M1 and 6 s
 
 **Functional Localizers**
 
-Experiments one and two are standard localizer that we use to divide visual cortex by visual field representaiton.
+Experiments one and two are standard localizer that we use to divide visual cortex by visual field representation.
 
 **Experiment 1 (Merridian Mapping)**  
 - Subjects were scanned while they viewed vertical and horizontal flickering checkerboard wedges to define retinotopic areas.

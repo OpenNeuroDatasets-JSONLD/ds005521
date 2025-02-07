@@ -1,6 +1,6 @@
 {
   "Name": "Macaque Color, Contrast, and Spatial Frequency Dataset",
-  "BIDSVersion": "1.14.0",
+  "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC0",
   "Authors": [
@@ -9,11 +9,11 @@
     "Kurt Braunlich",
     "Bevil Conway"
   ],
-  "Acknowledgements": "",
-  "HowToAcknowledge": "",
   "CuratedBy": [
     "Arshitha Basavaraj",
     "Dustin Moraczewski"
   ],
-  "DatasetDOI": ""
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1523/JNEUROSCI.1673-23.2024"
+  ]
 }
